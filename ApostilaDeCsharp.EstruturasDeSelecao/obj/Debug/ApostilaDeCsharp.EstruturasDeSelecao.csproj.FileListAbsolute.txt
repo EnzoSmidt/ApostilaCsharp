@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\ApostilaDeCsharp\ApostilaDeCsharp.EstruturasDeSelecao\bin\Debug\ApostilaDeCsharp.EstruturasDeSelecao.exe.config
+C:\Users\Aluno\source\repos\ApostilaDeCsharp\ApostilaDeCsharp.EstruturasDeSelecao\bin\Debug\ApostilaDeCsharp.EstruturasDeSelecao.exe
+C:\Users\Aluno\source\repos\ApostilaDeCsharp\ApostilaDeCsharp.EstruturasDeSelecao\bin\Debug\ApostilaDeCsharp.EstruturasDeSelecao.pdb
+C:\Users\Aluno\source\repos\ApostilaDeCsharp\ApostilaDeCsharp.EstruturasDeSelecao\obj\Debug\ApostilaDeCsharp.EstruturasDeSelecao.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ApostilaDeCsharp\ApostilaDeCsharp.EstruturasDeSelecao\obj\Debug\ApostilaDeCsharp.EstruturasDeSelecao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\ApostilaDeCsharp\ApostilaDeCsharp.EstruturasDeSelecao\obj\Debug\ApostilaDeCsharp.EstruturasDeSelecao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ApostilaDeCsharp\ApostilaDeCsharp.EstruturasDeSelecao\obj\Debug\ApostilaDeCsharp.EstruturasDeSelecao.exe
+C:\Users\Aluno\source\repos\ApostilaDeCsharp\ApostilaDeCsharp.EstruturasDeSelecao\obj\Debug\ApostilaDeCsharp.EstruturasDeSelecao.pdb
